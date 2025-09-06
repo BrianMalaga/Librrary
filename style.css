@@ -67,3 +67,7 @@ header {
     height: calc(100vh - 80px);
 }
 
+body {
+    color: red;
+}
+
